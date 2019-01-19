@@ -1,2 +1,0 @@
-# webstorm
-Configuration Repository
