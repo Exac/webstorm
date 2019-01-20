@@ -4,11 +4,17 @@
     <property name="created">2019-01-20T12:46:35</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-01-20T13:15:12</property>
+    <property name="modified">2019-01-20T13:28:40</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Anonymice Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Anonymice Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
