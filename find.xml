@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, *.json, *.html, *.css, *.tsx, *.tsm" />
+    <option name="FILE_MASK" value="*.ts, *.sass, *.pug, *.scss, *.sass" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,5 +14,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.ts, *.json, *.html, *.css, *.tsx, *.tsm</mask>
+    <mask>*.ts, *.json, *.html, *.css, *.tsx, *.tsm, *.pug</mask>
+    <mask>*.pug</mask>
+    <mask>*.sass</mask>
+    <mask>*.sass, *.pug</mask>
+    <mask>*.sass, *.pug, *.scss, *.sass</mask>
+    <mask>*.ts, *.sass, *.pug, *.scss, *.sass</mask>
   </component>
 </application>
