@@ -169,6 +169,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'AccountService.setAccount().can modify the level of an account and return the modified account.'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'AccountService.setAccount().can modify the level of an account and return the modified account.'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'account/resolver'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
