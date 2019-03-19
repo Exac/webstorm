@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>245</Count>
+          <Count>248</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -118,6 +118,14 @@
           <IdeaActionID>ToggleFullScreen</IdeaActionID>
           <ShortCut>'F11'</ShortCut>
           <Description>Enter Full Screen</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Exclude</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
