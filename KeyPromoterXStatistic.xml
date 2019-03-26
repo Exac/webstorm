@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory Path">
@@ -175,6 +175,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Move to Another Changelist...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
