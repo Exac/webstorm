@@ -481,6 +481,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'addressController.setAddress().Throws USER_AUTH_INVALID error when user isn't set properly'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
