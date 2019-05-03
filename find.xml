@@ -27,5 +27,6 @@
     <mask>*.html,*.ts, *.sass, *.pug, *.scss, *.sass</mask>
     <mask>*.sass, *.pug</mask>
     <mask>*.html,*.ts, *.sass, *.pug, *.scss, *.sass, *.graphql</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
