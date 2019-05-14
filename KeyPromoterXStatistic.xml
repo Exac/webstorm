@@ -465,6 +465,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'QueryKnex.setAccountAddress().creates a…account's address that doesn't yet exist'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'QueryKnex.setAccountAddress().creates a…account's address that doesn't yet exist'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
