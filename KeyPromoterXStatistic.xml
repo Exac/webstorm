@@ -481,6 +481,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'QueryKnex.setUserProfile().returns expected results on the happy path'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'QueryKnex.setUserProfile().returns expected results on the happy path'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
